@@ -9,6 +9,7 @@ contracting practice out of Cleveland, OH.
 
 | Tool | What it does |
 |---|---|
+| [ad-onboarder](https://github.com/cnoteninja/ad-onboarder) | AD onboarding/offboarding automator — CSV bulk creates, stale-account sweeper, Teams/Slack alerts |
 | [wifi-site-survey](https://github.com/cnoteninja/wifi-site-survey) | Walk a site, log every AP, generate a shareable survey report |
 | [site-readiness](https://github.com/cnoteninja/site-readiness) | One-command network check — drop, DNS, ports, speed — with a client handoff report |
 | [speedtest-logger](https://github.com/cnoteninja/speedtest-logger) | Log internet speed over 24h and chart the dips as evidence |
